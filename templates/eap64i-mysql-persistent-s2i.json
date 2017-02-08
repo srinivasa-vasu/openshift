@@ -387,9 +387,9 @@
                         "from": {
                             "kind": "ImageStreamTag",
                             "namespace": "${IMAGE_STREAM_NAMESPACE}",
-                            "name": "eap-app:latest"
+                            "name": "jboss-eap64-openshift:1.4"
                         },
-                        "incremental" : true
+                        "incremental": true
                     }
                 },
                 "output": {
