@@ -11,7 +11,7 @@
         "name": "eap64i-mysql-persistent-s2i"
     },
     "labels": {
-        "template": "eap64-mysql-persistent-s2i",
+        "template": "eap64i-mysql-persistent-s2i",
         "xpaas": "1.3.2"
     },
     "parameters": [
